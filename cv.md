@@ -15,9 +15,11 @@ I am a self-learning person with wide interest. Before I got interested in progr
 * VS Code
 * Figma, Adobe Photoshop, Illustrator
 ### Code example:
+```
 function multiply(a, b){
 return a * b
 }
+```
 ### Projects:
 https://github.com/Darburenok/rsschool-cv/commits/gh-pages/ (https://m.vk.com/away.php?to=https%3A%2F%2FDariaBurenok.github.io%2Frsschool-cv%2Fcv)
 ### Education:
